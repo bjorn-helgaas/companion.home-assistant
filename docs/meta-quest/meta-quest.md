@@ -5,7 +5,7 @@ id: "meta-quest"
 
 ![Android](/assets/android.svg)<br />
 
-Home Assistant has started to offer the [minimal flavor](/core/android-flavors.md) of the Android app for the Meta Quest. The app can be found in [SideQuest](https://www.sidequestvr.com), the alternative App Store for the Meta Quest.
+Home Assistant has started to offer the [minimal flavor](/core/android-flavors.md) of the Android app for the Meta Quest virtual reality headset. The app can be found in [SideQuest](https://www.sidequestvr.com), the alternative App Store for the Meta Quest.
 
 <a href="https://sidequestvr.com/app/6427/home-assistant" style={{ display: 'inline-block', width: '200px' }}>
     <img class="download-badge" width="175" src="https://sidequestvr.com/assets/images/branding/Get-it-on-SIDEQUEST.png" alt="Download on SideQuest" />
